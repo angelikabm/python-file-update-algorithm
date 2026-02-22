@@ -1,7 +1,7 @@
 <h1>🐍 Python Programming</h1>
 
 <h2>Project Description</h2>
-At my organization, access to restricted resources is managed through an allow list of approved IP addresses stored in the allow_list.txt file. A separate remove list identifies IP addresses that should no longer be authorized. I developed a Python algorithm to automate the process of updating the allow list by removing unauthorized IP addresses.
+At my organization, access to restricted content is controlled with an allow list of IP addresses. The "allow_list.txt" file identifies these IP addresses. A separate remove list identifies IP addresses that should no longer have access to this content. I created an algorithm to automate updating the "allow_list.txt" file and remove these IP addresses that should no longer have access. 
 <br />
 
 <h2>Opening the Allow List File</h2>
